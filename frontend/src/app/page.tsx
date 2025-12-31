@@ -18,7 +18,7 @@ export default function ParadiseCalculatorPage() {
       <header className="w-full border-b bg-white/80 backdrop-blur-md sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
           <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-emerald-600 bg-clip-text text-transparent">
-            경제적 자유
+            경제적 자유 - Freedom
           </h1>
           <div className="text-sm text-slate-500 font-medium">
             {new Date().toLocaleDateString('ko-KR')} 기준 시뮬레이션
